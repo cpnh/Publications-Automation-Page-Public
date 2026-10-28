@@ -1,18 +1,7 @@
 {
   "generated": "2026-10-28",
-  "count": 55,
+  "count": 54,
   "items": [
-    {
-      "source": "openalex",
-      "title": "Nutrition and women's health: Nurses’ Health Study, 50 years and beyond",
-      "authors": "Julia Leigh Finkelstein, Saurabh Mehta",
-      "journal": "The Lancet Obstetrics Gynaecology & Women s Health",
-      "date": "2026-10-01",
-      "doi": "10.1016/s3050-5038(26)00302-x",
-      "pmid": null,
-      "type": "article",
-      "link": "https://doi.org/10.1016/s3050-5038(26)00302-x"
-    },
     {
       "source": "openalex",
       "title": "Frequent EFSA regulation violation for wheat flours suggests stronger control and regulatory harmonization of production, milling and distribution",
