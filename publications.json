@@ -1,29 +1,7 @@
 {
   "generated": "2026-10-28",
-  "count": 54,
+  "count": 52,
   "items": [
-    {
-      "source": "openalex",
-      "title": "Frequent EFSA regulation violation for wheat flours suggests stronger control and regulatory harmonization of production, milling and distribution",
-      "authors": "Alexis Noel, Justine Pincemaille, Matteo Creta, Benjamin Arias Carnero, Radu Corneliu Duca, Flavien Denis, Manuella Burgart, Douglas Neil Rutledge, Baninia Habchi, Saurabh Mehta, Jean‐Louis Guéant, Nathalie Grova",
-      "journal": "npj Science of Food",
-      "date": "2026-09-04",
-      "doi": "10.1038/s41538-026-01126-6",
-      "pmid": null,
-      "type": "article",
-      "link": "https://doi.org/10.1038/s41538-026-01126-6"
-    },
-    {
-      "source": "openalex",
-      "title": "Portable Duplex Diagnostic Platform for Point-of-Care Differentiation of Ebola and Lassa Virus",
-      "authors": "Wenting Gao, Theopisti A. Nikolaou, Monalisa Almeida, Amber Consul, Yunting Guo, Victoria L. Olguin, Clarence Un, Noon Elbedawi, Antra Ganguly, Maguette Diop, Saurabh Mehta, Keersten Michelle Ricks, David Erickson",
-      "journal": "Analytical Chemistry",
-      "date": "2026-08-31",
-      "doi": "10.1021/acs.analchem.6c00820",
-      "pmid": "42915265",
-      "type": "article",
-      "link": "https://doi.org/10.1021/acs.analchem.6c00820"
-    },
     {
       "source": "openalex",
       "title": "Training Perspectives from the NIH T32 Artificial Intelligence for Precision Nutrition Programs",
