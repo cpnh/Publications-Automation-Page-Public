@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-11-02",
   "count": 54,
   "items": [
     {
@@ -12,6 +12,17 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/s3050-5038(26)00302-x"
+    },
+    {
+      "source": "openalex",
+      "title": "Anatomic Considerations of Retrograde Intramedullary Nail Placement in Distal Ulna Fractures",
+      "authors": "Emily Clarke, Saurabh Mehta, Kathryn Peck, Drew Wrightson, Brandon S. Smetana",
+      "journal": "The Journal Of Hand Surgery",
+      "date": "2026-10-01",
+      "doi": "10.1016/j.jhsa.2026.09.007",
+      "pmid": "42949692",
+      "type": "article",
+      "link": "https://doi.org/10.1016/j.jhsa.2026.09.007"
     },
     {
       "source": "openalex",
@@ -243,17 +254,6 @@
       "pmid": "42857699",
       "type": "article",
       "link": "https://doi.org/10.1039/d6ra04688f"
-    },
-    {
-      "source": "openalex",
-      "title": "The agri-food market globalization decreases food safety in the European union",
-      "authors": "Jean‐Louis Guéant, Charles Henri Malbert, Alexis Noel, Saurabh Mehta, Nathalie Grova, Eric A. Lichtfouse",
-      "journal": "Environmental Chemistry Letters",
-      "date": "2025-12-27",
-      "doi": "10.1007/s10311-025-01893-w",
-      "pmid": null,
-      "type": "article",
-      "link": "https://doi.org/10.1007/s10311-025-01893-w"
     },
     {
       "source": "openalex",
