@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-02",
-  "count": 52,
+  "count": 53,
   "items": [
     {
       "source": "openalex",
@@ -11,7 +11,8 @@
       "doi": "10.1016/s3050-5038(26)00302-x",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/s3050-5038(26)00302-x"
+      "link": "https://doi.org/10.1016/s3050-5038(26)00302-x",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -22,7 +23,22 @@
       "doi": "10.1038/s41538-026-01126-6",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1038/s41538-026-01126-6"
+      "link": "https://doi.org/10.1038/s41538-026-01126-6",
+      "sdgs": []
+    },
+    {
+      "source": "openalex",
+      "title": "Portable Duplex Diagnostic Platform for Point-of-Care Differentiation of Ebola and Lassa Virus",
+      "authors": "Wenting Gao, Theopisti A. Nikolaou, Monalisa Almeida, Amber Consul, Yunting Guo, Victoria L. Olguin, Clarence Un, Noon Elbedawi, Antra Ganguly, Maguette Diop, Saurabh Mehta, Keersten Michelle Ricks, David Erickson",
+      "journal": "Analytical Chemistry",
+      "date": "2026-08-31",
+      "doi": "10.1021/acs.analchem.6c00820",
+      "pmid": "42915265",
+      "type": "article",
+      "link": "https://doi.org/10.1021/acs.analchem.6c00820",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -33,7 +49,10 @@
       "doi": "10.1016/j.tjnut.2026.101796",
       "pmid": "42632616",
       "type": "article",
-      "link": "https://doi.org/10.1016/j.tjnut.2026.101796"
+      "link": "https://doi.org/10.1016/j.tjnut.2026.101796",
+      "sdgs": [
+        4
+      ]
     },
     {
       "source": "openalex",
@@ -44,7 +63,10 @@
       "doi": "10.1038/s41467-026-75674-6",
       "pmid": "42669658",
       "type": "article",
-      "link": "https://doi.org/10.1038/s41467-026-75674-6"
+      "link": "https://doi.org/10.1038/s41467-026-75674-6",
+      "sdgs": [
+        2
+      ]
     },
     {
       "source": "openalex",
@@ -55,7 +77,8 @@
       "doi": "10.1016/s3050-5038(26)00214-1",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/s3050-5038(26)00214-1"
+      "link": "https://doi.org/10.1016/s3050-5038(26)00214-1",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -66,7 +89,8 @@
       "doi": "10.1038/s41467-026-75004-w",
       "pmid": "42409828",
       "type": "review",
-      "link": "https://doi.org/10.1038/s41467-026-75004-w"
+      "link": "https://doi.org/10.1038/s41467-026-75004-w",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -77,7 +101,8 @@
       "doi": "10.1016/j.cdnut.2026.109033",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2026.109033"
+      "link": "https://doi.org/10.1016/j.cdnut.2026.109033",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -88,7 +113,8 @@
       "doi": "10.1016/j.cdnut.2026.108976",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2026.108976"
+      "link": "https://doi.org/10.1016/j.cdnut.2026.108976",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -99,7 +125,8 @@
       "doi": "10.1016/j.cdnut.2026.108669",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2026.108669"
+      "link": "https://doi.org/10.1016/j.cdnut.2026.108669",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -110,7 +137,8 @@
       "doi": "10.1016/j.cdnut.2026.109097",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2026.109097"
+      "link": "https://doi.org/10.1016/j.cdnut.2026.109097",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -121,7 +149,8 @@
       "doi": "10.1016/j.cdnut.2026.109084",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2026.109084"
+      "link": "https://doi.org/10.1016/j.cdnut.2026.109084",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -132,7 +161,8 @@
       "doi": "10.1016/j.cdnut.2026.108040",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2026.108040"
+      "link": "https://doi.org/10.1016/j.cdnut.2026.108040",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -143,7 +173,8 @@
       "doi": "10.1016/j.cdnut.2026.109372",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2026.109372"
+      "link": "https://doi.org/10.1016/j.cdnut.2026.109372",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -154,7 +185,8 @@
       "doi": "10.1016/j.cdnut.2026.109055",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2026.109055"
+      "link": "https://doi.org/10.1016/j.cdnut.2026.109055",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -165,7 +197,11 @@
       "doi": "10.1136/bmjopen-2025-109905",
       "pmid": "42242742",
       "type": "article",
-      "link": "https://doi.org/10.1136/bmjopen-2025-109905"
+      "link": "https://doi.org/10.1136/bmjopen-2025-109905",
+      "sdgs": [
+        3,
+        16
+      ]
     },
     {
       "source": "openalex",
@@ -176,7 +212,11 @@
       "doi": "10.1136/bmjgh-2025-020335",
       "pmid": "42082204",
       "type": "article",
-      "link": "https://doi.org/10.1136/bmjgh-2025-020335"
+      "link": "https://doi.org/10.1136/bmjgh-2025-020335",
+      "sdgs": [
+        2,
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -187,7 +227,8 @@
       "doi": "10.1016/j.advnut.2026.100625",
       "pmid": "41933704",
       "type": "review",
-      "link": "https://doi.org/10.1016/j.advnut.2026.100625"
+      "link": "https://doi.org/10.1016/j.advnut.2026.100625",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -198,7 +239,10 @@
       "doi": "10.37527/2026.76.1.006",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.37527/2026.76.1.006"
+      "link": "https://doi.org/10.37527/2026.76.1.006",
+      "sdgs": [
+        16
+      ]
     },
     {
       "source": "openalex",
@@ -209,7 +253,10 @@
       "doi": "10.1002/14651858.cd014217.pub2",
       "pmid": "41705996",
       "type": "review",
-      "link": "https://doi.org/10.1002/14651858.cd014217.pub2"
+      "link": "https://doi.org/10.1002/14651858.cd014217.pub2",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -220,7 +267,8 @@
       "doi": "10.1016/j.clnu.2025.11.002",
       "pmid": "41740296",
       "type": "article",
-      "link": "https://doi.org/10.1016/j.clnu.2025.11.002"
+      "link": "https://doi.org/10.1016/j.clnu.2025.11.002",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -231,7 +279,10 @@
       "doi": "10.1016/j.vaccine.2025.127867",
       "pmid": "41494357",
       "type": "article",
-      "link": "https://doi.org/10.1016/j.vaccine.2025.127867"
+      "link": "https://doi.org/10.1016/j.vaccine.2025.127867",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -242,7 +293,8 @@
       "doi": "10.1039/d6ra04688f",
       "pmid": "42857699",
       "type": "article",
-      "link": "https://doi.org/10.1039/d6ra04688f"
+      "link": "https://doi.org/10.1039/d6ra04688f",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -253,7 +305,10 @@
       "doi": "10.1371/journal.pntd.0013691",
       "pmid": "41284706",
       "type": "article",
-      "link": "https://doi.org/10.1371/journal.pntd.0013691"
+      "link": "https://doi.org/10.1371/journal.pntd.0013691",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -264,7 +319,8 @@
       "doi": "10.1002/cl2.70073",
       "pmid": "41190056",
       "type": "article",
-      "link": "https://doi.org/10.1002/cl2.70073"
+      "link": "https://doi.org/10.1002/cl2.70073",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -275,7 +331,10 @@
       "doi": "10.1371/journal.pgph.0004925",
       "pmid": "41091730",
       "type": "article",
-      "link": "https://doi.org/10.1371/journal.pgph.0004925"
+      "link": "https://doi.org/10.1371/journal.pgph.0004925",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -286,7 +345,10 @@
       "doi": "10.1016/j.tjnut.2025.10.030",
       "pmid": "41173371",
       "type": "review",
-      "link": "https://doi.org/10.1016/j.tjnut.2025.10.030"
+      "link": "https://doi.org/10.1016/j.tjnut.2025.10.030",
+      "sdgs": [
+        4
+      ]
     },
     {
       "source": "openalex",
@@ -297,7 +359,10 @@
       "doi": "10.1038/s41467-025-62985-3",
       "pmid": "40825980",
       "type": "review",
-      "link": "https://doi.org/10.1038/s41467-025-62985-3"
+      "link": "https://doi.org/10.1038/s41467-025-62985-3",
+      "sdgs": [
+        2
+      ]
     },
     {
       "source": "openalex",
@@ -308,7 +373,11 @@
       "doi": "10.4269/ajtmh.24-0825",
       "pmid": "40774242",
       "type": "article",
-      "link": "https://doi.org/10.4269/ajtmh.24-0825"
+      "link": "https://doi.org/10.4269/ajtmh.24-0825",
+      "sdgs": [
+        2,
+        6
+      ]
     },
     {
       "source": "openalex",
@@ -319,7 +388,10 @@
       "doi": "10.1002/14651858.cd015875",
       "pmid": "40637175",
       "type": "review",
-      "link": "https://doi.org/10.1002/14651858.cd015875"
+      "link": "https://doi.org/10.1002/14651858.cd015875",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -330,7 +402,8 @@
       "doi": "10.1002/14651858.cd013742.pub2",
       "pmid": "40433851",
       "type": "review",
-      "link": "https://doi.org/10.1002/14651858.cd013742.pub2"
+      "link": "https://doi.org/10.1002/14651858.cd013742.pub2",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -341,7 +414,8 @@
       "doi": "10.1200/jco.2025.43.16_suppl.e17164",
       "pmid": null,
       "type": "conference-abstract",
-      "link": "https://doi.org/10.1200/jco.2025.43.16_suppl.e17164"
+      "link": "https://doi.org/10.1200/jco.2025.43.16_suppl.e17164",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -352,7 +426,10 @@
       "doi": "10.1016/j.clnesp.2025.05.011",
       "pmid": "40349845",
       "type": "article",
-      "link": "https://doi.org/10.1016/j.clnesp.2025.05.011"
+      "link": "https://doi.org/10.1016/j.clnesp.2025.05.011",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -363,7 +440,11 @@
       "doi": "10.1186/s44263-025-00150-0",
       "pmid": "40200316",
       "type": "review",
-      "link": "https://doi.org/10.1186/s44263-025-00150-0"
+      "link": "https://doi.org/10.1186/s44263-025-00150-0",
+      "sdgs": [
+        2,
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -374,7 +455,11 @@
       "doi": "10.1016/s2214-109x(25)00021-x",
       "pmid": "40120593",
       "type": "article",
-      "link": "https://doi.org/10.1016/s2214-109x(25)00021-x"
+      "link": "https://doi.org/10.1016/s2214-109x(25)00021-x",
+      "sdgs": [
+        2,
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -385,7 +470,10 @@
       "doi": "10.1002/14651858.cd015877",
       "pmid": "39882755",
       "type": "review",
-      "link": "https://doi.org/10.1002/14651858.cd015877"
+      "link": "https://doi.org/10.1002/14651858.cd015877",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -396,7 +484,10 @@
       "doi": "10.1039/d5ra08197a",
       "pmid": "41426057",
       "type": "article",
-      "link": "https://doi.org/10.1039/d5ra08197a"
+      "link": "https://doi.org/10.1039/d5ra08197a",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -407,7 +498,10 @@
       "doi": "10.1093/infdis/jiae540",
       "pmid": "39504432",
       "type": "review",
-      "link": "https://doi.org/10.1093/infdis/jiae540"
+      "link": "https://doi.org/10.1093/infdis/jiae540",
+      "sdgs": [
+        2
+      ]
     },
     {
       "source": "openalex",
@@ -418,7 +512,10 @@
       "doi": "10.1016/j.tjnut.2024.10.037",
       "pmid": "39490799",
       "type": "article",
-      "link": "https://doi.org/10.1016/j.tjnut.2024.10.037"
+      "link": "https://doi.org/10.1016/j.tjnut.2024.10.037",
+      "sdgs": [
+        1
+      ]
     },
     {
       "source": "openalex",
@@ -429,7 +526,11 @@
       "doi": "10.1017/s0954422424000258",
       "pmid": "39376108",
       "type": "review",
-      "link": "https://doi.org/10.1017/s0954422424000258"
+      "link": "https://doi.org/10.1017/s0954422424000258",
+      "sdgs": [
+        2,
+        11
+      ]
     },
     {
       "source": "openalex",
@@ -440,7 +541,12 @@
       "doi": "10.1016/j.tem.2024.08.012",
       "pmid": "39341732",
       "type": "review",
-      "link": "https://doi.org/10.1016/j.tem.2024.08.012"
+      "link": "https://doi.org/10.1016/j.tem.2024.08.012",
+      "sdgs": [
+        2,
+        3,
+        10
+      ]
     },
     {
       "source": "openalex",
@@ -451,7 +557,11 @@
       "doi": "10.1016/j.tjnut.2024.08.021",
       "pmid": "39209112",
       "type": "article",
-      "link": "https://doi.org/10.1016/j.tjnut.2024.08.021"
+      "link": "https://doi.org/10.1016/j.tjnut.2024.08.021",
+      "sdgs": [
+        2,
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -462,7 +572,8 @@
       "doi": "10.1016/j.cdnut.2024.103459",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2024.103459"
+      "link": "https://doi.org/10.1016/j.cdnut.2024.103459",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -473,7 +584,8 @@
       "doi": "10.1016/j.cdnut.2024.102978",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2024.102978"
+      "link": "https://doi.org/10.1016/j.cdnut.2024.102978",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -484,7 +596,8 @@
       "doi": "10.1016/j.cdnut.2024.102985",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2024.102985"
+      "link": "https://doi.org/10.1016/j.cdnut.2024.102985",
+      "sdgs": []
     },
     {
       "source": "openalex",
@@ -495,7 +608,8 @@
       "doi": "10.1016/j.cdnut.2024.102982",
       "pmid": null,
       "type": "article",
-      "link": "https://doi.org/10.1016/j.cdnut.2024.102982"
+      "link": "https://doi.org/10.1016/j.cdnut.2024.102982",
+      "sdgs": []
     },
     {
       "source": "pubmed",
@@ -506,7 +620,10 @@
       "doi": "10.1093/nutrit/nuad100",
       "pmid": "37634146",
       "type": "article",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/37634146/"
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37634146/",
+      "sdgs": [
+        2
+      ]
     },
     {
       "source": "openalex",
@@ -517,7 +634,10 @@
       "doi": "10.1016/j.heliyon.2024.e27464",
       "pmid": "38509901",
       "type": "article",
-      "link": "https://doi.org/10.1016/j.heliyon.2024.e27464"
+      "link": "https://doi.org/10.1016/j.heliyon.2024.e27464",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -528,7 +648,11 @@
       "doi": "10.1016/j.advnut.2024.100186",
       "pmid": "38316343",
       "type": "review",
-      "link": "https://doi.org/10.1016/j.advnut.2024.100186"
+      "link": "https://doi.org/10.1016/j.advnut.2024.100186",
+      "sdgs": [
+        3,
+        10
+      ]
     },
     {
       "source": "openalex",
@@ -539,7 +663,10 @@
       "doi": "10.1200/jco.2024.42.4_suppl.279",
       "pmid": null,
       "type": "conference-abstract",
-      "link": "https://doi.org/10.1200/jco.2024.42.4_suppl.279"
+      "link": "https://doi.org/10.1200/jco.2024.42.4_suppl.279",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -550,7 +677,11 @@
       "doi": "10.1186/s44263-023-00035-0",
       "pmid": "39681926",
       "type": "review",
-      "link": "https://doi.org/10.1186/s44263-023-00035-0"
+      "link": "https://doi.org/10.1186/s44263-023-00035-0",
+      "sdgs": [
+        2,
+        3
+      ]
     },
     {
       "source": "pubmed",
@@ -561,7 +692,8 @@
       "doi": "10.1002/adma.202305937",
       "pmid": "37689973",
       "type": "article",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/37689973/"
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37689973/",
+      "sdgs": []
     },
     {
       "source": "pubmed",
@@ -572,7 +704,8 @@
       "doi": "10.1080/10408398.2022.2142762",
       "pmid": "36384354",
       "type": "article",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/36384354/"
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36384354/",
+      "sdgs": []
     }
   ]
 }
