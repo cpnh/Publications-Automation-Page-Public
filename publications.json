@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-02",
-  "count": 54,
+  "count": 52,
   "items": [
     {
       "source": "openalex",
@@ -12,17 +12,6 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/s3050-5038(26)00302-x"
-    },
-    {
-      "source": "openalex",
-      "title": "Anatomic Considerations of Retrograde Intramedullary Nail Placement in Distal Ulna Fractures",
-      "authors": "Emily Clarke, Saurabh Mehta, Kathryn Peck, Drew Wrightson, Brandon S. Smetana",
-      "journal": "The Journal Of Hand Surgery",
-      "date": "2026-10-01",
-      "doi": "10.1016/j.jhsa.2026.09.007",
-      "pmid": "42949692",
-      "type": "article",
-      "link": "https://doi.org/10.1016/j.jhsa.2026.09.007"
     },
     {
       "source": "openalex",
@@ -408,17 +397,6 @@
       "pmid": "41426057",
       "type": "article",
       "link": "https://doi.org/10.1039/d5ra08197a"
-    },
-    {
-      "source": "openalex",
-      "title": "Understanding the Impact of Admissions Variables on Admissions Diversity: A Single Doctor of Physical Therapy Program Review",
-      "authors": "Michael Bourassa, Allison Bourassa, Saurabh Mehta",
-      "journal": "Health Professions Education",
-      "date": "2025-01-01",
-      "doi": "10.55890/2452-3011.1360",
-      "pmid": null,
-      "type": "article",
-      "link": "https://doi.org/10.55890/2452-3011.1360"
     },
     {
       "source": "openalex",
