@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "count": 53,
   "items": [
     {
@@ -324,6 +324,20 @@
     },
     {
       "source": "openalex",
+      "title": "Application of an Ecological Approach to Assessment of Nutrition in School-Aged Children—A Report from the “Biomarkers of Nutrition for Development: Knowledge Indicating Dietary Sufficiency (BOND-KIDS)” Project Working Group 3",
+      "authors": "Saurabh Mehta, Lindsay H. Allen, Regan Lucas Bailey, Carol J. Boushey, Christopher Duggan, Scott E. Crouter, Reina Engle‐Stone, Shah Mohammad Fahim, Kimberlea Gibbs, Erika Hernández, Samantha Lee Huey, Victor Ochieng Owino, Elizabeth Leah Prado, Gabriela V. Proaño, Jennifer S. Savage, Alison Leah Steiber, Babette S Zemel, Daniel J. Raiten",
+      "journal": "Journal of Nutrition",
+      "date": "2025-10-30",
+      "doi": "10.1016/j.tjnut.2025.10.030",
+      "pmid": "41173371",
+      "type": "review",
+      "link": "https://doi.org/10.1016/j.tjnut.2025.10.030",
+      "sdgs": [
+        4
+      ]
+    },
+    {
+      "source": "openalex",
       "title": "Metabolite dynamics over the course of anti-tuberculosis treatment in individuals with mild and severe tuberculosis",
       "authors": "Catherine H Kagemann, Senbagavalli Prakash Babu, Komala Ezhumalai, Arnab Chakraborty, Kalaivani Raghupathy, Siddhesh S. Kamat, Vijay Viswanathan, Samantha Lee Huey, Prakash Babu Narasimhan, Pranay Sinha, Elaine A. Yu, Saurabh Mehta, Sonali Sarkar",
       "journal": "PLOS Global Public Health",
@@ -334,20 +348,6 @@
       "link": "https://doi.org/10.1371/journal.pgph.0004925",
       "sdgs": [
         3
-      ]
-    },
-    {
-      "source": "openalex",
-      "title": "Application of an Ecological Approach to Assessment of Nutrition in School-Aged Children—A Report from the “Biomarkers of Nutrition for Development: Knowledge Indicating Dietary Sufficiency (BOND-KIDS)” Project Working Group 3",
-      "authors": "Saurabh Mehta, Lindsay H. Allen, Regan Lucas Bailey, Carol J. Boushey, Christopher Duggan, Scott E. Crouter, Reina Engle‐Stone, Shah Mohammad Fahim, Kimberlea Gibbs, Erika Hernández, Samantha Lee Huey, Victor Ochieng Owino, Elizabeth Leah Prado, Gabriela V. Proaño, Jennifer S. Savage, Alison Leah Steiber, Babette S Zemel, Daniel J. Raiten",
-      "journal": "Journal of Nutrition",
-      "date": "2025-10-01",
-      "doi": "10.1016/j.tjnut.2025.10.030",
-      "pmid": "41173371",
-      "type": "review",
-      "link": "https://doi.org/10.1016/j.tjnut.2025.10.030",
-      "sdgs": [
-        4
       ]
     },
     {
