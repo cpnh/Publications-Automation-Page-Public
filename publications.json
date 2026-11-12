@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-11",
-  "count": 53,
+  "generated": "2026-11-12",
+  "count": 54,
   "items": [
+    {
+      "source": "pubmed",
+      "title": "Regimens of vitamin D supplementation for women during pregnancy.",
+      "authors": "Trak-Fellermeier MA, Palma Molina XE, Huey SL, Salisi JA, John JC, Cuthbert A, Juskeviciute B, Overholt B, Kibbee M, Mehta S, Weeks J, Finkelstein JL",
+      "journal": "Cochrane Database Syst Rev",
+      "date": "2026-11-11",
+      "doi": "10.1002/14651858.cd013446.pub2",
+      "pmid": "43012372",
+      "type": "article",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43012372/",
+      "sdgs": []
+    },
     {
       "source": "openalex",
       "title": "Nutrition and women's health: Nurses’ Health Study, 50 years and beyond",
