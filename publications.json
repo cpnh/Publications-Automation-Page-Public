@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-16",
-  "count": 54,
+  "generated": "2026-11-17",
+  "count": 55,
   "items": [
+    {
+      "source": "pubmed",
+      "title": "Daily iron supplementation for prevention or treatment of iron-deficiency anaemia in infants, children, and adolescents.",
+      "authors": "Rajagopalan K, Hackl L, Peña-Rosas JP, Garcia-Casal MN, Rizal M, Mehta NH, Roudik M, Islam S, Trumbull-Kennedy MM, Khondakar NR, Franco JV, Finkelstein JL, Mehta S",
+      "journal": "Cochrane Database Syst Rev",
+      "date": "2026-11-17",
+      "doi": "10.1002/14651858.cd013227.pub2",
+      "pmid": "43039028",
+      "type": "article",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43039028/",
+      "sdgs": []
+    },
     {
       "source": "openalex",
       "title": "Regimens of vitamin D supplementation for women during pregnancy",
@@ -12,6 +24,18 @@
       "pmid": "43012372",
       "type": "review",
       "link": "https://doi.org/10.1002/14651858.cd013446.pub2",
+      "sdgs": []
+    },
+    {
+      "source": "openalex",
+      "title": "Europium nanoparticle-based lateral flow assay for rapid detection of herpes simplex virus 2-specific antibodies in serum: a preliminary evaluation",
+      "authors": "Balaji Srinivasan, Julia Leigh Finkelstein, David Erickson, Saurabh Mehta",
+      "journal": "RSC Advances",
+      "date": "2026-10-29",
+      "doi": "10.1039/d6ra04688f",
+      "pmid": "42857699",
+      "type": "article",
+      "link": "https://doi.org/10.1039/d6ra04688f",
       "sdgs": []
     },
     {
@@ -298,15 +322,17 @@
     },
     {
       "source": "openalex",
-      "title": "Europium nanoparticle-based lateral flow assay for rapid detection of herpes simplex virus 2-specific antibodies in serum: a preliminary evaluation",
-      "authors": "Balaji Srinivasan, Julia Leigh Finkelstein, David Erickson, Saurabh Mehta",
+      "title": "Comparison of two nanomaterial labels for detection of SARS-CoV-2 nucleocapsid antigen to improve analytical performance of lateral flow immunoassays",
+      "authors": "Balaji Srinivasan, Melissa Rivera, Cristina Caicedo, Washington Bolivar Cardenas, Julia Leigh Finkelstein, David Erickson, Saurabh Mehta",
       "journal": "RSC Advances",
-      "date": "2026-01-01",
-      "doi": "10.1039/d6ra04688f",
-      "pmid": "42857699",
+      "date": "2025-12-16",
+      "doi": "10.1039/d5ra08197a",
+      "pmid": "41426057",
       "type": "article",
-      "link": "https://doi.org/10.1039/d6ra04688f",
-      "sdgs": []
+      "link": "https://doi.org/10.1039/d5ra08197a",
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
@@ -483,20 +509,6 @@
       "pmid": "39882755",
       "type": "review",
       "link": "https://doi.org/10.1002/14651858.cd015877",
-      "sdgs": [
-        3
-      ]
-    },
-    {
-      "source": "openalex",
-      "title": "Comparison of two nanomaterial labels for detection of SARS-CoV-2 nucleocapsid antigen to improve analytical performance of lateral flow immunoassays",
-      "authors": "Balaji Srinivasan, Melissa Rivera, Cristina Caicedo, Washington Bolivar Cardenas, Julia Leigh Finkelstein, David Erickson, Saurabh Mehta",
-      "journal": "RSC Advances",
-      "date": "2025-01-01",
-      "doi": "10.1039/d5ra08197a",
-      "pmid": "41426057",
-      "type": "article",
-      "link": "https://doi.org/10.1039/d5ra08197a",
       "sdgs": [
         3
       ]
