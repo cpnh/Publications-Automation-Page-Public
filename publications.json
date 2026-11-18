@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-17",
+  "generated": "2026-11-18",
   "count": 55,
   "items": [
     {
-      "source": "pubmed",
-      "title": "Daily iron supplementation for prevention or treatment of iron-deficiency anaemia in infants, children, and adolescents.",
-      "authors": "Rajagopalan K, Hackl L, Peña-Rosas JP, Garcia-Casal MN, Rizal M, Mehta NH, Roudik M, Islam S, Trumbull-Kennedy MM, Khondakar NR, Franco JV, Finkelstein JL, Mehta S",
-      "journal": "Cochrane Database Syst Rev",
+      "source": "openalex",
+      "title": "Daily iron supplementation for prevention or treatment of iron-deficiency anaemia in infants, children, and adolescents",
+      "authors": "Kripa Rajagopalan, Laura Hackl, Juan Pablo Peña‐Rosas, Maria Nieves Garcia‐Casal, Mochammad Rizal, Neel H. Mehta, Michael Roudik, Saiful Islam, Meghan Trumbull-Kennedy, Nabila Reem Khondakar, Juan Víctor Ariel Franco, Julia Leigh Finkelstein, Saurabh Mehta",
+      "journal": "Cochrane Database of Systematic Reviews",
       "date": "2026-11-17",
       "doi": "10.1002/14651858.cd013227.pub2",
-      "pmid": "43039028",
+      "pmid": null,
       "type": "article",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43039028/",
+      "link": "https://doi.org/10.1002/14651858.cd013227.pub2",
       "sdgs": []
     },
     {
