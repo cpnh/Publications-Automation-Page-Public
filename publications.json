@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "count": 55,
   "items": [
     {
@@ -9,8 +9,8 @@
       "journal": "Cochrane Database of Systematic Reviews",
       "date": "2026-11-17",
       "doi": "10.1002/14651858.cd013227.pub2",
-      "pmid": null,
-      "type": "article",
+      "pmid": "43039028",
+      "type": "review",
       "link": "https://doi.org/10.1002/14651858.cd013227.pub2",
       "sdgs": []
     },
@@ -269,7 +269,7 @@
     {
       "source": "openalex",
       "title": "Editatón \"Salud para todos\": modelo participativo de traducción del conocimiento y movilización comunitaria en Wikipedia",
-      "authors": "Arturo Sánchez, Anna Bennett, Amaya Stifano, Dr Juan Pablo Pena-Rosas, Saurabh Mehta",
+      "authors": "Arturo Sánchez, Anna Bennett, Amaya Stifano, Juan Pablo Pena-Rosas, Saurabh Mehta",
       "journal": "Archivos Latinoamericanos de Nutrición",
       "date": "2026-03-05",
       "doi": "10.37527/2026.76.1.006",
