@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-19",
-  "count": 55,
+  "generated": "2026-11-20",
+  "count": 56,
   "items": [
+    {
+      "source": "openalex",
+      "title": "A decade‐scale audit of microbiome AI‐readiness",
+      "authors": "Samuel Degregori, Isabella Huang, Lynn H. Fetcinko, Harrison Martel, Dmitry Kisselev, Harrison Gu, David G. Kobobel, Emily Song, Ariadne Garcia Reyes, Malleeka T. Suy, Khanh Nguyen, Ariana J Hampton, Jack Anderson, Mohak Prakash, Jeffrey Bohrer, Nathália Maria Afonso Silveira FRANCO, Ritvik Vudatha, Cynthia Sofía, Weili Lu, Nicolás A. Zepeda, Efe M. Balkanli, Luis Xu, Yangxi Li, Camille Sicat, Aditya Sinha, Amelie Sicat, Yue Fan, Khue Tran, Vanessa Yang, Yuxuan Xie, Zoey Hall, Soumya Khadye, Kimson Li, Sahithi Malleboyina, Yuhan Weng, Michael Iter, Britta De Pessemier, Jonathan Kirkland, Lucas Patel, Madison Ambre, Gail L. Ackermann, Antonio González, Daniel T. McDonald, Amanda Birmingham, Eduard Flores Ventura, Sterling Wright, Julia M. Kelliher, Saurabh Mehta, Jack Gilbert, Chris Mungall, Pieter C. Dorrestein, Taichi A. Suzuki, Emiley A. Eloe‐Fadrosh, Rob D. Knight",
+      "journal": "iMeta",
+      "date": "2026-11-18",
+      "doi": "10.1002/imt2.70192",
+      "pmid": null,
+      "type": "article",
+      "link": "https://doi.org/10.1002/imt2.70192",
+      "sdgs": []
+    },
     {
       "source": "openalex",
       "title": "Daily iron supplementation for prevention or treatment of iron-deficiency anaemia in infants, children, and adolescents",
