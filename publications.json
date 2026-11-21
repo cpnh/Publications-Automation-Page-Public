@@ -36,7 +36,9 @@
       "pmid": "43012372",
       "type": "review",
       "link": "https://doi.org/10.1002/14651858.cd013446.pub2",
-      "sdgs": []
+      "sdgs": [
+        3
+      ]
     },
     {
       "source": "openalex",
