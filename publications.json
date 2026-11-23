@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-23",
-  "count": 55,
+  "count": 56,
   "items": [
     {
       "source": "openalex",
@@ -12,7 +12,8 @@
       "pmid": "43039028",
       "type": "review",
       "link": "https://doi.org/10.1002/14651858.cd013227.pub2",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Rajagopalan K, Hackl L, Peña-Rosas JP, Garcia-Casal MN, Rizal M, Mehta NH, Roudik M, Islam S, Trumbull-Kennedy MM, Khondakar NR, Franco JV, Finkelstein JL, Mehta S. Daily iron supplementation for prevention or treatment of iron-deficiency anaemia in infants, children, and adolescents. Cochrane Database Syst Rev. 2026 Nov 17;11(11):CD013227. doi: 10.1002/14651858.CD013227.pub2. PMID: 43039028; PMCID: PMC13773615."
     },
     {
       "source": "openalex",
@@ -26,7 +27,8 @@
       "link": "https://doi.org/10.1002/14651858.cd013446.pub2",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Trak-Fellermeier MA, Palma Molina XE, Huey SL, Salisi JA, John JC, Cuthbert A, Juskeviciute B, Overholt B, Kibbee M, Mehta S, Weeks J, Finkelstein JL. Regimens of vitamin D supplementation for women during pregnancy. Cochrane Database Syst Rev. 2026 Nov 11;11(11):CD013446. doi: 10.1002/14651858.CD013446.pub2. PMID: 43012372; PMCID: PMC13752983."
     },
     {
       "source": "openalex",
@@ -38,7 +40,8 @@
       "pmid": "42857699",
       "type": "article",
       "link": "https://doi.org/10.1039/d6ra04688f",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Srinivasan B, Finkelstein JL, Erickson D, Mehta S. Europium nanoparticle-based lateral flow assay for rapid detection of herpes simplex virus 2-specific antibodies in serum: a preliminary evaluation. RSC Adv. 2026 Oct 9;16(47):62036-62045. doi: 10.1039/d6ra04688f. PMID: 42857699; PMCID: PMC13651804."
     },
     {
       "source": "openalex",
@@ -50,7 +53,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/s3050-5038(26)00302-x",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Finkelstein JL, Mehta S. Nutrition and women's health: Nurses’ Health Study, 50 years and beyond. The Lancet Obstetrics Gynaecology & Women s Health. 2026 Oct 1;2(10):e851-e852. doi: 10.1016/s3050-5038(26)00302-x."
     },
     {
       "source": "openalex",
@@ -62,7 +66,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1038/s41538-026-01126-6",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Noel A, Pincemaille J, Creta M, Carnero BA, Duca RC, Denis F, Burgart M, Rutledge DN, Habchi B, Mehta S, Guéant J, Grova N. Frequent EFSA regulation violation for wheat flours suggests stronger control and regulatory harmonization of production, milling and distribution. npj Science of Food. 2026 Sep 4. doi: 10.1038/s41538-026-01126-6."
     },
     {
       "source": "openalex",
@@ -76,7 +81,8 @@
       "link": "https://doi.org/10.1021/acs.analchem.6c00820",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Gao W, Nikolaou TA, Almeida M, Consul A, Guo Y, Olguin V, Un C, Elbedawi N, Ganguly A, Diop M, Mehta S, Ricks K, Erickson D. Portable Duplex Diagnostic Platform for Point-of-Care Differentiation of Ebola and Lassa Virus. Anal Chem. 2026 Sep 15;98(36):26360-26372. doi: 10.1021/acs.analchem.6c00820. PMID: 42915265."
     },
     {
       "source": "openalex",
@@ -90,7 +96,8 @@
       "link": "https://doi.org/10.1016/j.tjnut.2026.101796",
       "sdgs": [
         4
-      ]
+      ],
+      "citation": "Mehta S, Huey SL, Massara P, Liu L, Whisner CM, Deng Y, Novotny R, Antwi J, Kim S, Musaad S, Erickson D, Estrin D, Finkelstein JL, Joachims T, Kagemann CH, Tamimi R, Thomas D, Wells MT. Training Perspectives from the NIH T32 Artificial Intelligence for Precision Nutrition Programs. J Nutr. 2026 Oct;156(10):101796. doi: 10.1016/j.tjnut.2026.101796. Epub 2026 Aug 22. PMID: 42632616; PMCID: PMC13693270."
     },
     {
       "source": "openalex",
@@ -104,7 +111,8 @@
       "link": "https://doi.org/10.1038/s41467-026-75674-6",
       "sdgs": [
         2
-      ]
+      ],
+      "citation": "Huey SL, Cole NL, Pagani I, González A, Finkelstein JL, Haas JD, Udipi SA, Ghugre P, Potdar RD, Knight R, Mehta S. Effect of a complementary feeding intervention based on iron- and zinc-biofortified pearl millet on the gut microbiota in 12-18-month-old children: a randomized trial. Nat Commun. 2026 Jul 30;17(1):9242. doi: 10.1038/s41467-026-75674-6. PMID: 42669658; PMCID: PMC13527057."
     },
     {
       "source": "openalex",
@@ -116,7 +124,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/s3050-5038(26)00214-1",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Mehta S, Ganguly A, Srinivasan B, Kulkarni B, Pullakhandam R, Palika R, Lyngdoh T, Huey SL, Erickson D, Finkelstein JL. Closing gaps in anaemia care through public–academic partnerships. The Lancet Obstetrics Gynaecology & Women s Health. 2026 Jul 30;2(10):e856-e857. doi: 10.1016/s3050-5038(26)00214-1."
     },
     {
       "source": "openalex",
@@ -128,7 +137,8 @@
       "pmid": "42409828",
       "type": "review",
       "link": "https://doi.org/10.1038/s41467-026-75004-w",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Massara P, Kirkland J, Pagani I, Huey SL, Hirsh H, McDonald D, Patel L, Finkelstein JL, Gantz M, Wang F, Erickson D, Wells MT, Elemento O, Knight R, Mehta S. Applying Artificial Intelligence and machine learning in precision nutrition. Nat Commun. 2026 Jul 6;17(1):5880. doi: 10.1038/s41467-026-75004-w. Erratum in: Nat Commun. 2026 Oct 28;17(1):11201. doi: 10.1038/s41467-026-77960-9. PMID: 42409828; PMCID: PMC13338271."
     },
     {
       "source": "openalex",
@@ -140,7 +150,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2026.109033",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Cole N, Huey SL, Pagani I, González A, Finkelstein JL, Haas JD, Udipi SA, Ghugre PS, Potdar RD, Knight RD, Mehta S. Metabolic Adaptions Associated With Biofortified Pearl Millet in the Gut Microbiota of 12–18-Month Old Children. Current Developments in Nutrition. 2026 Jul 1;10:109033-109033. doi: 10.1016/j.cdnut.2026.109033."
     },
     {
       "source": "openalex",
@@ -152,7 +163,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2026.108976",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Rizal M, Ji N, Huey SL, Mehta S. Sex Differences in Food Groups Consumption and Dietary Diversity Among Children and Adolescents in India. Current Developments in Nutrition. 2026 Jul 1;10:108976-108976. doi: 10.1016/j.cdnut.2026.108976."
     },
     {
       "source": "openalex",
@@ -164,7 +176,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2026.108669",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Sley EG, Choudhury DR, Fothergill A, Johnson CB, Narasimhan PB, Mehta S, Finkelstein JL. Reproductive Health and Pregnancy Outcomes Among Women in Southern India. Current Developments in Nutrition. 2026 Jul 1;10:108669-108669. doi: 10.1016/j.cdnut.2026.108669."
     },
     {
       "source": "openalex",
@@ -176,7 +189,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2026.109097",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Yousaf S, Narasimhan PB, Cintron C, Dauphinais MR, Jain K, Kagemann CH, Lakshminarayanan S, Mehta S, Babu SP, Rajkumari N, Sarkar S, Sinha P. Parasitic Coinfection and Sex Influence Gut Microbial Metabolic Pathways in Individuals With Tuberculosis. Current Developments in Nutrition. 2026 Jul 1;10:109097-109097. doi: 10.1016/j.cdnut.2026.109097."
     },
     {
       "source": "openalex",
@@ -188,7 +202,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2026.109084",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Kottapalli R, Kagemann CH, Jain K, Dauphinais MR, Babu SP, Rajkumari N, Cintron C, Lakshminarayanan S, Sarkar S, Narasimhan PB, Sinha P, Mehta S. Host BMI Influences Gut Microbial Metabolic Pathways in Individuals With Tuberculosis. Current Developments in Nutrition. 2026 Jul 1;10:109084-109084. doi: 10.1016/j.cdnut.2026.109084."
     },
     {
       "source": "openalex",
@@ -200,7 +215,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2026.108040",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Choudhury DR, Sley EG, Guetterman HM, John CB, Reddy S, Narasimhan PB, Mehta S, Finkelstein JL. Dual Burden of Malnutrition: Anemia and Nutritional Status in Women of Reproductive Age in Southern India. Current Developments in Nutrition. 2026 Jul 1;10:108040-108040. doi: 10.1016/j.cdnut.2026.108040."
     },
     {
       "source": "openalex",
@@ -212,7 +228,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2026.109372",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Robinson A, Ghosh SA, Mehta S. Micronutrient Status and Inflammation in Adult Women: A Cross-Sectional Biomarker Study in Northern Uganda. Current Developments in Nutrition. 2026 Jul 1;10:109372-109372. doi: 10.1016/j.cdnut.2026.109372."
     },
     {
       "source": "openalex",
@@ -224,7 +241,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2026.109055",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Kagemann CH, Huey SL, Finkelstein JL, Mehta S. Gut Microbial Signatures of Iron and Zinc Intake and Status During a Biofortified Pearl Millet Intervention in Children. Current Developments in Nutrition. 2026 Jul 1;10:109055-109055. doi: 10.1016/j.cdnut.2026.109055."
     },
     {
       "source": "openalex",
@@ -239,7 +257,8 @@
       "sdgs": [
         3,
         16
-      ]
+      ],
+      "citation": "Rukh-E-Qamar H, Mohan V, Eraslan M, Erickson D, Mehta S, Pai N. Exploring the needs of technical developers and stakeholders in point-of-care technology development: a qualitative study. BMJ Open. 2026 Jun 4;16(6):e109905. doi: 10.1136/bmjopen-2025-109905. PMID: 42242742; PMCID: PMC13239379."
     },
     {
       "source": "openalex",
@@ -254,7 +273,8 @@
       "sdgs": [
         2,
         3
-      ]
+      ],
+      "citation": "Gallini J, Singh UB, Dauphinais M, Sarkar S, Carwile M, Kumar R, Rao R, Chaudhary A, McQuaid CF, Maloomian K, Sinha S, Mehta S, Dowdy DW, Liu AF, Linas BP, Horsburgh CR Jr, White LF, Sinha P. Cost-effectiveness of in-kind nutritional support for impoverished persons with tuberculosis to reduce mortality and disengagement from care in India: a modelling study. BMJ Glob Health. 2026 May 4;11(5):e020335. doi: 10.1136/bmjgh-2025-020335. PMID: 42082204; PMCID: PMC13141030."
     },
     {
       "source": "openalex",
@@ -266,7 +286,8 @@
       "pmid": "41933704",
       "type": "review",
       "link": "https://doi.org/10.1016/j.advnut.2026.100625",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Fahim SM, Miah M, Marcotte M, Zoria N, Ahmed M, Huey SL, Erickson D, Finkelstein JL, Mehta S. Saliva as a Matrix for Primary Care: Feasibility and Scoping of Its Use for Assessment of Nutrition and Inflammation. Adv Nutr. 2026 May;17(5):100625. doi: 10.1016/j.advnut.2026.100625. Epub 2026 Apr 1. PMID: 41933704; PMCID: PMC13112399."
     },
     {
       "source": "openalex",
@@ -280,7 +301,8 @@
       "link": "https://doi.org/10.37527/2026.76.1.006",
       "sdgs": [
         16
-      ]
+      ],
+      "citation": "Sánchez A, Bennett A, Stifano A, Pena-Rosas JP, Mehta S. Editatón \"Salud para todos\": modelo participativo de traducción del conocimiento y movilización comunitaria en Wikipedia. Archivos Latinoamericanos de Nutrición. 2026 Mar 5;76(1):49-56. doi: 10.37527/2026.76.1.006."
     },
     {
       "source": "openalex",
@@ -294,7 +316,8 @@
       "link": "https://doi.org/10.1002/14651858.cd014217.pub2",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Qi YP, Crider KS, Gutman J, Centeno-Tablante E, Fothergill A, Daniels K, Yeung LF, Mai CT, Mehta S, Williams JL, Finkelstein JL. Folic acid supplementation and malaria susceptibility and severity among people taking antifolate antimalarial drugs in endemic areas. Cochrane Database Syst Rev. 2026 Feb 18;2(2):CD014217. doi: 10.1002/14651858.CD014217.pub2. PMID: 41705996; PMCID: PMC12915520."
     },
     {
       "source": "openalex",
@@ -306,7 +329,8 @@
       "pmid": "41740296",
       "type": "article",
       "link": "https://doi.org/10.1016/j.clnu.2025.11.002",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Mehta S, Huey SL, Ghugre PS, Potdar RD, Venkatramanan S, Krisher JT, Ruth CJ, Chopra HV, Thorat A, Thakker V, Johnson L, Powis L, Raveendran Y, Rajagopalan K, Haas JD, Finkelstein JL, Udipi SA; Project Sabal. A randomized trial of iron- and zinc-biofortified pearl millet-based complementary feeding in children aged 12-18 months living in urban slums. Clin Nutr. 2026 Apr;59:106517. doi: 10.1016/j.clnu.2025.11.002. Epub 2026 Feb 9. PMID: 41740296."
     },
     {
       "source": "openalex",
@@ -320,7 +344,21 @@
       "link": "https://doi.org/10.1016/j.vaccine.2025.127867",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Orellana-Manzano A, Garcia-Angulo A, Quinto F, Munizaga MG, De la Cruz CM, Cordeiro FB, Carvajal-Aldaz D, Ordoñez C, Silva A, Valencia L, José-Vizcaino M, Bermúdez FAG, Ghosh S, Andrade-Molina D, Centeno-Tablante E, Mehta S, Cárdenas WB, Borbor-Cordova M. COVID-19 vaccination campaign, knowledge, and trust in Duran, Ecuador: a cross-sectional study. Vaccine. 2026 Feb 6;72:127867. doi: 10.1016/j.vaccine.2025.127867. Epub 2026 Jan 5. PMID: 41494357."
+    },
+    {
+      "source": "openalex",
+      "title": "The agri-food market globalization decreases food safety in the European union",
+      "authors": "Jean‐Louis Guéant, Charles Henri Malbert, Alexis Noel, Saurabh Mehta, Nathalie Grova, Éric Lichtfouse",
+      "journal": "Environmental Chemistry Letters",
+      "date": "2025-12-27",
+      "doi": "10.1007/s10311-025-01893-w",
+      "pmid": null,
+      "type": "editorial",
+      "link": "https://doi.org/10.1007/s10311-025-01893-w",
+      "sdgs": [],
+      "citation": "Guéant J, Malbert CH, Noel A, Mehta S, Grova N, Lichtfouse É. The agri-food market globalization decreases food safety in the European union. Environmental Chemistry Letters. 2025 Dec 27;24(3):403-406. doi: 10.1007/s10311-025-01893-w."
     },
     {
       "source": "openalex",
@@ -334,7 +372,8 @@
       "link": "https://doi.org/10.1039/d5ra08197a",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Srinivasan B, Rivera M, Caicedo C, Cárdenas WB, Finkelstein JL, Erickson D, Mehta S. Comparison of two nanomaterial labels for detection of SARS-CoV-2 nucleocapsid antigen to improve analytical performance of lateral flow immunoassays. RSC Adv. 2025 Dec 19;15(59):51162-51170. doi: 10.1039/d5ra08197a. PMID: 41426057; PMCID: PMC12716254."
     },
     {
       "source": "openalex",
@@ -348,7 +387,8 @@
       "link": "https://doi.org/10.1371/journal.pntd.0013691",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Fierro REC, Salazar NGM, Cárdenas WB, Medina-Villamizar EJ, Pastuña-Fasso J, Ochoa-Ocampo M, Morán-Marcillo G, Arrata MER, Zambrano M, Andrade J, Chang J, Mehta S, Bertuccez Cordeiro F. Dengue virus infection in children: Serum lipidomics profiling for biomarker discovery. PLoS Negl Trop Dis. 2025 Nov 24;19(11):e0013691. doi: 10.1371/journal.pntd.0013691. Erratum in: PLoS Negl Trop Dis. 2025 Dec 30;19(12):e0013862. doi: 10.1371/journal.pntd.0013862. PMID: 41284706; PMCID: PMC12643310."
     },
     {
       "source": "openalex",
@@ -360,7 +400,8 @@
       "pmid": "41190056",
       "type": "article",
       "link": "https://doi.org/10.1002/cl2.70073",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Wang X, Huey SL, Sheng R, Mehta S, Wang F. SciDaSynth: Interactive Structured Data Extraction From Scientific Literature With Large Language Model. Campbell Syst Rev. 2025 Nov 3;21(4):e70073. doi: 10.1002/cl2.70073. PMID: 41190056; PMCID: PMC12581027."
     },
     {
       "source": "openalex",
@@ -374,7 +415,8 @@
       "link": "https://doi.org/10.1016/j.tjnut.2025.10.030",
       "sdgs": [
         4
-      ]
+      ],
+      "citation": "Mehta S, Allen LH, Bailey RL, Boushey CJ, Duggan CP, Crouter SE, Engle-Stone R, Fahim SM, Gibbs K, Hernandez E, Huey SL, Owino VO, Prado EL, Proaño GV, Savage JS, Steiber AL, Zemel BS, Raiten DJ. Application of an Ecological Approach to Assessment of Nutrition in School-Aged Children-A Report from the \"Biomarkers of Nutrition for Development: Knowledge Indicating Dietary Sufficiency (BOND-KIDS)\" Project Working Group 3. J Nutr. 2026 Nov;156(11):101217. doi: 10.1016/j.tjnut.2025.10.030. Epub 2025 Oct 30. PMID: 41173371; PMCID: PMC12737918."
     },
     {
       "source": "openalex",
@@ -388,7 +430,8 @@
       "link": "https://doi.org/10.1371/journal.pgph.0004925",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Kagemann CH, Prakash Babu S, Ezhumalai K, Chakraborty A, Raghupathy K, Kamat SS, Viswanathan V, Huey SL, Narasimhan PB, Sinha P, Yu EA, Mehta S, Sarkar S; Regional Prospective Observational Research on Tuberculosis India Consortium. Metabolite dynamics over the course of anti-tuberculosis treatment in individuals with mild and severe tuberculosis. PLOS Glob Public Health. 2025 Oct 15;5(10):e0004925. doi: 10.1371/journal.pgph.0004925. PMID: 41091730; PMCID: PMC12527214."
     },
     {
       "source": "openalex",
@@ -402,7 +445,8 @@
       "link": "https://doi.org/10.1038/s41467-025-62985-3",
       "sdgs": [
         2
-      ]
+      ],
+      "citation": "Mehta S, Huey SL, Fahim SM, Sinha S, Rajagopalan K, Ahmed T, Knight R, Finkelstein JL. Advances in artificial intelligence and precision nutrition approaches to improve maternal and child health in low resource settings. Nat Commun. 2025 Aug 18;16(1):7673. doi: 10.1038/s41467-025-62985-3. PMID: 40825980; PMCID: PMC12361493."
     },
     {
       "source": "openalex",
@@ -417,7 +461,8 @@
       "sdgs": [
         2,
         6
-      ]
+      ],
+      "citation": "Moore IG, Ren Y, Griswold S, Van Sant C, Heylen C, Agaba E, Brown R, Mehta S, Srinivasan B, Kayo GD, Mwesigire T, Domini M, Namusalisi J, Lantagne D, Fitzpatrick M, Marshak A, Hebie M, De Groote H, Webb P, Ghosh S. The Impact and Sustainability of Multisector Interventions to Improve Water Quality and Food Safety in Complex Environments: A Cluster-Randomized Controlled Trial in Northern Uganda. Am J Trop Med Hyg. 2025 Aug 7;113(4):888-902. doi: 10.4269/ajtmh.24-0825. PMID: 40774242; PMCID: PMC12493142."
     },
     {
       "source": "openalex",
@@ -431,7 +476,8 @@
       "link": "https://doi.org/10.1002/14651858.cd015875",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Fahim SM, Huey SL, Palma Molina XE, Agarwal N, Ridwan P, Ji N, Kibbee M, Kuriyan R, Finkelstein JL, Mehta S. Gut microbiome-based interventions for the management of obesity in children and adolescents aged up to 19 years. Cochrane Database Syst Rev. 2025 Jul 10;7(7):CD015875. doi: 10.1002/14651858.CD015875. PMID: 40637175; PMCID: PMC12243456."
     },
     {
       "source": "openalex",
@@ -443,7 +489,8 @@
       "pmid": "40433851",
       "type": "review",
       "link": "https://doi.org/10.1002/14651858.cd013742.pub2",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Gannon BM, Huey SL, Mehta NH, Shrestha N, Lopez-Perez L, Martinez RX, Rogers LM, Garcia-Casal MN, Mehta S. Selected laboratory-based biomarkers for assessing vitamin A deficiency in at-risk individuals. Cochrane Database Syst Rev. 2025 May 28;5(5):CD013742. doi: 10.1002/14651858.CD013742.pub2. PMID: 40433851; PMCID: PMC12233214."
     },
     {
       "source": "openalex",
@@ -455,7 +502,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1200/jco.2025.43.16_suppl.e17164",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Arham AB, Srinivasan B, Thomas JE, Ganguly A, Erickson D, Zhao Z, Geisel RE, Chen Z, Barbieri CE, Winkler AC, Scherr DS, Hu JC, Molina AM, Sternberg CN, Tagawa ST, Mehta S, Nanus DM. Prostate specific antigen (PSA) screening from fingerstick blood: Initial validation of a point-of-care (POC) test. Journal of Clinical Oncology. 2025 May 28;43(16_suppl). doi: 10.1200/jco.2025.43.16_suppl.e17164."
     },
     {
       "source": "openalex",
@@ -469,7 +517,8 @@
       "link": "https://doi.org/10.1016/j.clnesp.2025.05.011",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Guetterman HM, Crider KS, Fothergill A, Bose B, Johnson CB, Jabbar S, Zhang M, Pfeiffer CM, Rose CE, Qi YP, Williams JL, Mehta S, Kuriyan R, Finkelstein JL. Vitamin B<sub>12</sub> status and metabolic health in women of reproductive age: Population-based biomarker survey. Clin Nutr ESPEN. 2025 Aug;68:176-188. doi: 10.1016/j.clnesp.2025.05.011. Epub 2025 May 9. PMID: 40349845; PMCID: PMC12256199."
     },
     {
       "source": "openalex",
@@ -484,7 +533,8 @@
       "sdgs": [
         2,
         3
-      ]
+      ],
+      "citation": "Sinha S, Hackl LS, Huey SL, Lambertini E, Nordhagen S, Bennett AM, Shrestha N, Cole NL, Finkelstein JL, Mehta S. Overview of foodborne hazards associated with inflammation and metabolic health. BMC Glob Public Health. 2025 Apr 8;3(1):31. doi: 10.1186/s44263-025-00150-0. PMID: 40200316; PMCID: PMC11980346."
     },
     {
       "source": "openalex",
@@ -499,7 +549,8 @@
       "sdgs": [
         2,
         3
-      ]
+      ],
+      "citation": "Sinha P, Bhargava M, Carwile ME, Dauphinais MR, Tisile P, Cintron C, Locks LM, Hauser J, Oliver M, Heysell SK, Mehta S, Finkelstein JL, Koura KG, Cegielski JP, Houben RMGJ, McQuaid CF, Bhargava A. A roadmap for integrating nutritional assessment, counselling, and support into the care of people with tuberculosis. Lancet Glob Health. 2025 May;13(5):e967-e973. doi: 10.1016/S2214-109X(25)00021-X. Epub 2025 Mar 19. PMID: 40120593; PMCID: PMC12276968."
     },
     {
       "source": "openalex",
@@ -513,7 +564,8 @@
       "link": "https://doi.org/10.1002/14651858.cd015877",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Huey SL, Mehta NH, Steinhouse RS, Jin Y, Kibbee M, Kuriyan R, Finkelstein JL, Mehta S. Precision nutrition-based interventions for the management of obesity in children and adolescents up to the age of 19 years. Cochrane Database Syst Rev. 2025 Jan 30;1(1):CD015877. doi: 10.1002/14651858.CD015877. PMID: 39882755; PMCID: PMC12045580."
     },
     {
       "source": "openalex",
@@ -527,7 +579,8 @@
       "link": "https://doi.org/10.1093/infdis/jiae540",
       "sdgs": [
         2
-      ]
+      ],
+      "citation": "Locks LM, Parekh A, Newell K, Dauphinais MR, Cintron C, Maloomian K, Yu EA, Finkelstein JL, Mehta S, Sinha P. The ABCDs of Nutritional Assessment in Infectious Diseases Research. J Infect Dis. 2025 Mar 17;231(3):562-572. doi: 10.1093/infdis/jiae540. PMID: 39504432; PMCID: PMC11911783."
     },
     {
       "source": "openalex",
@@ -541,7 +594,8 @@
       "link": "https://doi.org/10.1016/j.tjnut.2024.10.037",
       "sdgs": [
         1
-      ]
+      ],
+      "citation": "Guetterman HM, Rajagopalan K, Fox AM, Johnson CB, Fothergill A, George N, Krisher JT, Haas JD, Mehta S, Williams JL, Crider KS, Finkelstein JL. A Randomized Crossover Trial of Acceptability of Quadruple-Fortified Salt in Women and their Households in Southern India. J Nutr. 2025 Jan;155(1):322-337. doi: 10.1016/j.tjnut.2024.10.037. Epub 2024 Oct 26. PMID: 39490799; PMCID: PMC11795687."
     },
     {
       "source": "openalex",
@@ -556,7 +610,8 @@
       "sdgs": [
         2,
         11
-      ]
+      ],
+      "citation": "Huey SL, Islam S, Mehta NH, Konieczynski EM, Friesen VM, Krisher JT, Mbuya MNN, Monterrosa EC, Nyangaresi AM, Mehta S. Review of the facilitators and barriers to adoption of biofortified foods and food products. Nutr Res Rev. 2025 Jun;38(1):371-392. doi: 10.1017/S0954422424000258. Epub 2024 Oct 8. PMID: 39376108."
     },
     {
       "source": "openalex",
@@ -572,7 +627,8 @@
         2,
         3,
         10
-      ]
+      ],
+      "citation": "Sinha S, Huey SL, Shukla AP, Kuriyan R, Finkelstein JL, Mehta S. Connecting precision nutrition with the Food is Medicine approach. Trends Endocrinol Metab. 2025 Jun;36(6):511-520. doi: 10.1016/j.tem.2024.08.012. Epub 2024 Sep 27. PMID: 39341732."
     },
     {
       "source": "openalex",
@@ -587,7 +643,8 @@
       "sdgs": [
         2,
         3
-      ]
+      ],
+      "citation": "Ji N, Kumar A, Joe W, Kuriyan R, Sethi V, Finkelstein JL, Mehta S. Prevalence and Correlates of Double and Triple Burden of Malnutrition Among Children and Adolescents in India: The Comprehensive National Nutrition Survey. J Nutr. 2024 Oct;154(10):2932-2947. doi: 10.1016/j.tjnut.2024.08.021. Epub 2024 Aug 28. PMID: 39209112."
     },
     {
       "source": "openalex",
@@ -599,7 +656,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2024.103459",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Cole NL, Huey SL, Finkelstein JL, Knight RD, Mehta S. Impact of an Iron-Biofortified Intervention on the Composition and Diversity of the Gut Microbiota Among Children in the 2nd Year of Life. Current Developments in Nutrition. 2024 Jun 29;8:103459-103459. doi: 10.1016/j.cdnut.2024.103459."
     },
     {
       "source": "openalex",
@@ -611,7 +669,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2024.102978",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Molina XEP, Mehta S, Guetterman HM, Fothergill A, Johnson CB, Qi YP, Rose CE, Williams JL, Kuriyan R, Crider KS, Finkelstein JL. Vitamin D Status, Anthropometry, and Body Composition in Women of Reproductive Age. Current Developments in Nutrition. 2024 Jun 29;8:102978-102978. doi: 10.1016/j.cdnut.2024.102978."
     },
     {
       "source": "openalex",
@@ -623,7 +682,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2024.102985",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Robinson AN, Huey SL, Venkatramanan S, Udipi SA, Thakker V, Thorat A, Potdar RD, Chopra H, Finkelstein JL, Mehta S. Prevalence and Correlates of Vitamin D in Young Children Living in Urban Slums of Mumbai: A Cross-Sectional Study. Current Developments in Nutrition. 2024 Jun 29;8:102985-102985. doi: 10.1016/j.cdnut.2024.102985."
     },
     {
       "source": "openalex",
@@ -635,7 +695,8 @@
       "pmid": null,
       "type": "article",
       "link": "https://doi.org/10.1016/j.cdnut.2024.102982",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Ren Y, Moore I, Griswold SP, Van Sant C, Lantagne D, Heylen C, Agaba E, Brown R, Mehta S, Srinivasan B, Kayo GD, Mwesigire T, Namusalisi J, Fitzpatrick M, Marshak A, Hebie MT, De Groote H, Webb P, Ghosh SA. Aflatoxin Contamination in Northern Uganda: A cRCT to Reduce Total Maize Aflatoxin and Aflatoxin B1-Lysine to Prevent Malnutrition. Current Developments in Nutrition. 2024 Jun 29;8:102982-102982. doi: 10.1016/j.cdnut.2024.102982."
     },
     {
       "source": "pubmed",
@@ -645,11 +706,12 @@
       "date": "2024-06-10",
       "doi": "10.1093/nutrit/nuad100",
       "pmid": "37634146",
-      "type": "article",
+      "type": "review",
       "link": "https://pubmed.ncbi.nlm.nih.gov/37634146/",
       "sdgs": [
         2
-      ]
+      ],
+      "citation": "Huey SL, Bhargava A, Friesen VM, Konieczynski EM, Krisher JT, Mbuya MNN, Mehta NH, Monterrosa E, Nyangaresi AM, Mehta S. Sensory acceptability of biofortified foods and food products: a systematic review. Nutr Rev. 2024 Jun 10;82(7):892-912. doi: 10.1093/nutrit/nuad100. Erratum in: Nutr Rev. 2025 Feb 1;83(2):e740. doi: 10.1093/nutrit/nuad173. PMID: 37634146; PMCID: PMC11163453."
     },
     {
       "source": "openalex",
@@ -663,7 +725,8 @@
       "link": "https://doi.org/10.1016/j.heliyon.2024.e27464",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Orellana‐Manzano A, Garcia‐Angulo AC, Cordeiro FB, Carvajal‐Aldaz D, Centeno‐Tablante E, Vizcaíno MJA, Poveda S, Garcia M, la Cruz CMD, Andrade-Molina D, Mirabá M, Mehta S, Cardenas WB. Surveillance of COVID-19 vaccines: A comprehensive analysis of the first immunization drive in Ecuador. Heliyon. 2024 Mar 1;10(6):e27464-e27464. doi: 10.1016/j.heliyon.2024.e27464. PMID: 38509901."
     },
     {
       "source": "openalex",
@@ -678,7 +741,8 @@
       "sdgs": [
         3,
         10
-      ]
+      ],
+      "citation": "Mehta NH, Huey SL, Kuriyan R, Peña-Rosas JP, Finkelstein JL, Kashyap S, Mehta S. Potential Mechanisms of Precision Nutrition-Based Interventions for Managing Obesity. Adv Nutr. 2024 Mar;15(3):100186. doi: 10.1016/j.advnut.2024.100186. Epub 2024 Feb 3. PMID: 38316343; PMCID: PMC10914563."
     },
     {
       "source": "openalex",
@@ -692,7 +756,8 @@
       "link": "https://doi.org/10.1200/jco.2024.42.4_suppl.279",
       "sdgs": [
         3
-      ]
+      ],
+      "citation": "Thomas JE, Srinivasan B, Jacobs N, Winkler AC, Zhao Z, Phillips E, Kensler KH, Tagawa ST, Nauseef JT, Molina AM, Sternberg CN, Sun MP, Scherr DS, Barbieri CE, Hu JC, McClure T, Reckler JM, Erickson D, Mehta S, Nanus DM. Rapid quantification of prostate specific antigen (PSA) from fingerstick (FS) blood. Journal of Clinical Oncology. 2024 Jan 29;42(4_suppl):279-279. doi: 10.1200/jco.2024.42.4_suppl.279."
     },
     {
       "source": "openalex",
@@ -707,7 +772,8 @@
       "sdgs": [
         2,
         3
-      ]
+      ],
+      "citation": "Dauphinais MR, Koura KG, Narasimhan PB, Mehta S, Finkelstein JL, Heysell SK, Sinha P. Nutritionally acquired immunodeficiency must be addressed with the same urgency as HIV to end tuberculosis. BMC Glob Public Health. 2024 Jan 12;2(1):4. doi: 10.1186/s44263-023-00035-0. PMID: 39681926; PMCID: PMC11622872."
     },
     {
       "source": "pubmed",
@@ -719,7 +785,8 @@
       "pmid": "37689973",
       "type": "article",
       "link": "https://pubmed.ncbi.nlm.nih.gov/37689973/",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Erstling JA, Bag N, Gardinier TC, Kohle FFE, DomNwachukwu N, Butler SD, Kao T, Ma K, Turker MZ, Feuer GB, Lee R, Naguib N, Tallman JF, Malarkey HF, Tsaur L, Moore WL, Chapman DV, Aubert T, Mehta S, Cerione RA, Weiss RS, Baird BA, Wiesner UB. Overcoming Barriers Associated with Oral Delivery of Differently Sized Fluorescent Core-Shell Silica Nanoparticles. Adv Mater. 2024 Jan;36(1):e2305937. doi: 10.1002/adma.202305937. Epub 2023 Nov 23. PMID: 37689973."
     },
     {
       "source": "pubmed",
@@ -729,9 +796,10 @@
       "date": "2024-01-01",
       "doi": "10.1080/10408398.2022.2142762",
       "pmid": "36384354",
-      "type": "article",
+      "type": "review",
       "link": "https://pubmed.ncbi.nlm.nih.gov/36384354/",
-      "sdgs": []
+      "sdgs": [],
+      "citation": "Huey SL, Mehta NH, Konieczynski EM, Bhargava A, Friesen VM, Krisher JT, Mbuya MNN, Monterrosa E, Nyangaresi AM, Boy E, Mehta S. Bioaccessibility and bioavailability of biofortified food and food products: Current evidence. Crit Rev Food Sci Nutr. 2024;64(14):4500-4522. doi: 10.1080/10408398.2022.2142762. Epub 2022 Nov 17. PMID: 36384354."
     }
   ]
 }
