@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "count": 57,
   "items": [
     {
       "source": "openalex",
       "title": "A decade‐scale audit of microbiome AI‐readiness",
-      "authors": "Samuel Degregori, Isabella Huang, Lynn H. Fetcinko, Harrison Martel, Dmitry Kisselev, Harrison Gu, David G. Kobobel, Emily Song, Ariadne Garcia Reyes, Malleeka T. Suy, Khanh Nguyen, Ariana J Hampton, Jack Anderson, Mohak Prakash, Jeffrey Bohrer, Nathália Maria Afonso Silveira FRANCO, Ritvik Vudatha, Cynthia Sofía, Weili Lu, Nicolás A. Zepeda, Efe M. Balkanli, Luis Xu, Yangxi Li, Camille Sicat, Aditya Sinha, Amelie Sicat, Yue Fan, Khue Tran, Vanessa Yang, Yuxuan Xie, Zoey Hall, Soumya Khadye, Kimson Li, Sahithi Malleboyina, Yuhan Weng, Michael Iter, Britta De Pessemier, Jonathan Kirkland, Lucas Patel, Madison Ambre, Gail L. Ackermann, Antonio González, Daniel T. McDonald, Amanda Birmingham, Eduard Flores Ventura, Sterling Wright, Julia M. Kelliher, Saurabh Mehta, Jack Gilbert, Chris Mungall, Pieter C. Dorrestein, Taichi A. Suzuki, Emiley A. Eloe‐Fadrosh, Rob D. Knight",
+      "authors": "Samuel Degregori, Isabella Huang, Lynn H. Fetcinko, Harrison Martel, Dmitry Kisselev, Harrison Gu, David G. Kobobel, Emily Song, Ariadne Garcia Reyes, Malleeka T. Suy, Khanh Nguyen, Ariana J Hampton, Jack Anderson, Mohak Prakash, Jeffrey Bohrer, Nathália Maria Afonso Silveira FRANCO, Ritvik Vudatha, Cynthia Sofía, Weili Lu, Nicolás A. Zepeda, Efe M. Balkanli, Luis Xu, Yangxi Li, Camille Sicat, Aditya Sinha, Amelie Sicat, Yue Fan, Khue Tran, Vanessa Yang, Yuxuan Xie, Zoey Hall, Soumya Khadye, Kimson Li, Sahithi Malleboyina, Yuhan Weng, Michael Iter, Britta De Pessemier, Jonathan Kirkland, Lucas Patel, Madison Ambre, Gail L. Ackermann, Antonio Gonzalez, Daniel T. McDonald, Amanda Birmingham, Eduard Flores Ventura, Sterling Wright, Julia M. Kelliher, Saurabh Mehta, Jack Gilbert, Chris Mungall, Pieter C. Dorrestein, Taichi A. Suzuki, Emiley A. Eloe‐Fadrosh, Rob D. Knight",
       "journal": "iMeta",
       "date": "2026-11-18",
       "doi": "10.1002/imt2.70192",
@@ -100,7 +100,7 @@
     {
       "source": "openalex",
       "title": "Training Perspectives from the NIH T32 Artificial Intelligence for Precision Nutrition Programs",
-      "authors": "Saurabh Mehta, Samantha Lee Huey, Paraskevi Massara, Li Liu, Corrie Marie Whisner, Youping Deng, Rachel Novotny, Janet Antwi, Seungchan Kim, Salma M. A. Musaad, David Erickson, Deborah L. Estrin, Julia Leigh Finkelstein, Thorsten Joachims, Catherine H Kagemann, Rulla Tamimi, Diana Thomas, Martin T. Wells",
+      "authors": "Saurabh Mehta, Samantha Lee Huey, Paraskevi Massara, Li Liu, Corrie Marie Whisner, Youping Deng, Rachel Novotny, Janet Antwi, Seungchan Kim, Salma M. A. Musaad, David Erickson, Deborah L. Estrin, Julia Leigh Finkelstein, Thorsten Joachims, Catherine H Kagemann, Rulla M. Tamimi, Diana Thomas, Martin T. Wells",
       "journal": "Journal of Nutrition",
       "date": "2026-08-22",
       "doi": "10.1016/j.tjnut.2026.101796",
